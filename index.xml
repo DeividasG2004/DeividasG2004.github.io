@@ -13,7 +13,8 @@
       <link>https://deividasg2004.github.io/about/</link>
       <pubDate>Mon, 16 Nov 2026 22:30:00 +0200</pubDate>
       <guid>https://deividasg2004.github.io/about/</guid>
-      <description>&lt;p&gt;Čia galite parašyti keletą savo sakinių apie save ir šį laboratorinį darbą.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Esu Deividas Grigas, Vilniaus Gedimino technikos universiteto studentas. Šią svetainę sukūriau atlikdamas debesų technologijų laboratorinį darbą.&lt;/p&gt;
+&lt;p&gt;Darbo metu Microsoft Azure debesyje susikūriau Linux serverį, jame įdiegiau nginx ir paskelbiau paprastą statinį puslapį. Vėliau, naudodamas Hugo, git ir GitHub Pages, sukūriau šią svetainę ir paskelbiau ją internete.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mano antras įrašas</title>
